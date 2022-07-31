@@ -1,0 +1,14 @@
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.exe
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.deps.json
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.runtimeconfig.json
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.runtimeconfig.dev.json
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.dll
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.csproj.AssemblyReference.cache
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.AssemblyInfoInputs.cache
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.AssemblyInfo.cs
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.csproj.CoreCompileInputs.cache
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.dll
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.pdb
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\obj\Debug\netcoreapp3.1\Second Question.genruntimeconfig.cache
+C:\Users\Amit Pegu\Desktop\Day4SnakeLadder\Second Question\Second Question\bin\Debug\netcoreapp3.1\Second Question.pdb
